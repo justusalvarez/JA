@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SoRoo - Comfortable Couches for Your Home</title>
+    <meta name="description" content="SoRoo offers a wide selection of comfortable and stylish couches for your home.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <a href="#" class="logo">SoRoo</a>
+        <nav>
+          <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">Products</a></li>
+            <li><a href="#">Contact Us</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main>
+      <div class="container">
+        <h1>Welcome to SoRoo</h1>
+        <p class="intro">At SoRoo, we offer a wide selection of comfortable and stylish couches for your home. Whether you're looking for a cozy loveseat or a spacious sectional, we have something for everyone. Browse our selection today!</p>
+        <div class="gallery">
+          <img src="https://images.unsplash.com/photo-1518458028782-80ac2ac491f8" alt="Couch 1">
+          <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e" alt="Couch 2">
+          <img src="https://images.unsplash.com/photo-1517336714733-207f25e84b9d" alt="Couch 3">
+          <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba" alt="Couch 4">
+        </div>
+      </div>
+    </main>
+    <footer>
+      <div class="container">
+        <p class="rights">&copy; SoRoo 2023. All Rights Reserved.</p>
+        <nav>
+          <ul>
+            <li><a href="#">Privacy Policy</a></li>
+            <li><a href="#">Terms of Service</a></li>
+            <li><a href="#">Accessibility</a></li>
+          </ul>
+        </nav>
+      </div>
+    </footer>
+  </body>
+</html>
